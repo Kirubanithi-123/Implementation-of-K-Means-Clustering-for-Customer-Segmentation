@@ -21,11 +21,7 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 ## Developed by: KIRUBANITHI.S
 ## RegisterNumber: 212223220047
 ```
-/*
-Program to implement the K Means Clustering for Customer Segmentation.
-Developed by: KIRUBANITHI.S
-RegisterNumber: 21223220047
-*/
+
 
 import pandas as pd
 import matplotlib.pyplot as plt
